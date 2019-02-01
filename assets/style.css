@@ -4,6 +4,10 @@
   height: auto;
   color: rgba(255,255,255,.9);
 }
+
+.parallax img {
+  filter: brightness(50%);
+}
   .parallax-container .section {
     width: 100%;
   }
